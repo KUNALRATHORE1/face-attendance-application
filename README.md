@@ -184,6 +184,10 @@ Computer Science and Engineering (CSE)
 Medicaps University  
 GitHub: [github.com/Mayankpawar28](https://github.com/Mayankpawar28)
 
+**Kunal Rathore**  
+Computer Science and Engineering (CSE)  
+Medicaps University  
+
 ---
 
 ## 📄 License
